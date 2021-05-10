@@ -43,7 +43,7 @@
 * THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
 ## Mock-up 
-
+![mock of intended site](https://github.com/DangerBearAZ/Tech-Blog/blob/main/assets/mock.JPG "mock of intended site")
 ## Website 
 * not avaliable at this time 
 
